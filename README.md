@@ -1,4 +1,4 @@
-# 🚗 CarSpotter: Luxury Vehicle Tracker and License Plate Recognizer
+# 🚗 autogespot.com - Selenium Scraper using Python 
 
 ![title](https://i.imgur.com/gDJjFhM.png)
 
