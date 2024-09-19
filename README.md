@@ -50,9 +50,11 @@ Here's a glimpse of the data CarSpotter can collect:
 | Brand         | Model                    | License Plate |
 |---------------|--------------------------|---------------|
 | Audi          | RS6 Avant C8             | -             |
-| Mercedes-Benz | CLS 63 AMG C218          | ZH769000      |
-| BMW           | i8                       | ZH229356      |
-| Ferrari       | SF90 Stradale Assetto F. | GE251507      |
+| Mercedes-Benz | CLS 63 AMG C218          | ZH124567      |
+| BMW           | i8                       | ZH124567      |
+| Ferrari       | SF90 Stradale Assetto F. | GE124567      |
+
+Keep in mind these license plate numbers are for illustration purpose only and are of imagination.
 
 ## Privacy
 
