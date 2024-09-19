@@ -1,7 +1,6 @@
 # 🚗 autogespot.com - Selenium Scraper using Python 
 
-![title](https://i.imgur.com/gDJjFhM.png)
-
+![image](https://i.imgur.com/nFUEc1x.png)
 
 CarSpotter is an advanced web scraping and image processing tool designed to track luxury vehicles spotted in Switzerland. It combines web scraping techniques with license plate recognition to create a comprehensive database of high-end automobiles.
 
@@ -52,9 +51,13 @@ Here's a glimpse of the data CarSpotter can collect:
 |---------------|--------------------------|---------------|
 | Audi          | RS6 Avant C8             | -             |
 | Mercedes-Benz | CLS 63 AMG C218          | ZH769000      |
-| BMW           | i8                       | ZH229156      |
-| Ferrari       | SF90 Stradale Assetto F. | GE251007      |
+| BMW           | i8                       | ZH229356      |
+| Ferrari       | SF90 Stradale Assetto F. | GE251507      |
 
+## Privacy
+
+This tool has been solely developed for educational purposes/hobby project.
+This tool is not intended for commercial use or the tracking of individuals, and users are responsible for ensuring their actions comply with applicable legal and ethical standards.
 
 ## 🤝 Contributing
 
